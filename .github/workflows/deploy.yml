@@ -2,7 +2,7 @@ name: Auto Download and Deploy
 
 on:
   schedule:
-    - cron: '0 19 * * *' 
+    - cron: '23 20 * * *' 
   workflow_dispatch: 
 
 permissions:
