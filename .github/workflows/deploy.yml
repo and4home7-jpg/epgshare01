@@ -19,6 +19,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # [추가된 부분] 깃허브 시스템을 만족시키는 합법적인 생존 신고
+      # 매일 keepalive_log.txt 라는 파일에 오늘 날짜를 기록하고 저장소에 업데이트합니다.
+      - name: Prevent Cron Suspension
+        run: |
+          date > keepalive_log.txt
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add keepalive_log.txt
+          git commit -m "Auto Keepalive Update" || echo "No changes"
+          git push
+
       - name: Download and Extract
         run: |
           mkdir -p public
