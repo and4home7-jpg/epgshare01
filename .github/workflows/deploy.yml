@@ -1,0 +1,34 @@
+name: Auto Download and Deploy
+
+on:
+  schedule:
+    - cron: '0 19 * * *' 
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+# 이 부분을 추가하여 Node.js 관련 경고창을 없앱니다.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download and Extract
+        run: |
+          mkdir -p public
+          cd public
+          wget "https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz"
+          gunzip epg_ripper_KR1.xml.gz
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
