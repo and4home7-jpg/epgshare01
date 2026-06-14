@@ -2,13 +2,12 @@ name: Auto Download and Deploy
 
 on:
   schedule:
-    - cron: '0 19 * * *' 
+    - cron: '0 19 * * *' # 매일 한국 시간 오전 4시 실행
   workflow_dispatch: 
 
 permissions:
   contents: write
 
-# 이 부분을 추가하여 Node.js 관련 경고창을 없앱니다.
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -32,3 +31,10 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+      # [추가된 코드] 60일 자동 정지 방지를 위한 Keepalive 액션
+      # 일주일에 한 번씩 자동으로 무의미한 커밋을 남겨 정지를 막습니다.
+      - name: Keepalive Workflow
+        uses: gautamkrishnar/keepalive-workflow@v2
+        with:
+          use_api: true
