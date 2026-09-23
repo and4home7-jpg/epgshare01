@@ -1,144 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="none" generator-info-url="none">
-  <channel id="BBS.불교방송.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_903.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_903.jpg" />
+  <channel id="Eurosport.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201905/eurosport_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201905/eurosport_logo.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">BBS 불교방송</display-name>
-  </channel>
-  <channel id="채널.칭(CHING).kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202010/201015_채널칭_Logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202010/201015_채널칭_Logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">채널 칭(CHING)</display-name>
-  </channel>
-  <channel id="라이프타임.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201709/lifetime_logo(1).png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201709/lifetime_logo(1).png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">라이프타임</display-name>
-  </channel>
-  <channel id="채널W.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_chw.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_chw.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">채널W</display-name>
-  </channel>
-  <channel id="KISS.다문화가족.음악방송1.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 다문화가족 음악방송1</display-name>
-  </channel>
-  <channel id="Arirang.Korea.kr">
-    <url>http://www.arirang.com</url>
-    <display-name lang="ko">Arirang Korea</display-name>
-  </channel>
-  <channel id="CNN.International.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_117.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_117.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CNN International</display-name>
-  </channel>
-  <channel id="GS.SHOP.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_hyundaihs.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_hyundaihs.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">GS SHOP</display-name>
-  </channel>
-  <channel id="리얼TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201811/realtv_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201811/realtv_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">리얼TV</display-name>
-  </channel>
-  <channel id="Satio.선데이.브런치카페.팝스.인.뉴욕.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 선데이 브런치카페 팝스 인 뉴욕</display-name>
-  </channel>
-  <channel id="시네마천국.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202106/20210701_CINEMA_Logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202106/20210701_CINEMA_Logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">시네마천국</display-name>
-  </channel>
-  <channel id="BBC.World.Service.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_as.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_as.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">BBC World Service</display-name>
-  </channel>
-  <channel id="GOODTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201802/195번_GOODTV.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201802/195번_GOODTV.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">GOODTV</display-name>
-  </channel>
-  <channel id="KISS.최신인기가요.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 최신인기가요</display-name>
-  </channel>
-  <channel id="Sky.Ultra.Audio.K-POP.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201608/logo_UltraAudio_Kpop.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Sky Ultra Audio K-POP</display-name>
-  </channel>
-  <channel id="JTBC2.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_jtbc2.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_jtbc2.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">JTBC2</display-name>
-  </channel>
-  <channel id="디자이어TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201709/desireTV_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201709/desireTV_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">디자이어TV</display-name>
-  </channel>
-  <channel id="마운틴TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201802/193번_마운틴TV.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201802/193번_마운틴TV.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">마운틴TV</display-name>
-  </channel>
-  <channel id="EBS플러스2.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_114.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_114.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">EBS플러스2</display-name>
-  </channel>
-  <channel id="KBS2.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_kbs_1.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_kbs_1.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KBS2</display-name>
-  </channel>
-  <channel id="Airrang.UN.kr">
-    <icon src="data:image/png;base64,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" />
-    <icon src="data:image/png;base64,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" />
-    <url>http://www.arirang.com</url>
-    <display-name lang="ko">Airrang UN</display-name>
-  </channel>
-  <channel id="FIGHT.SPORTS.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202109/211001_fightsports_Logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202109/211001_fightsports_Logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">FIGHT SPORTS</display-name>
-  </channel>
-  <channel id="NBS한국농업방송.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">NBS한국농업방송</display-name>
-  </channel>
-  <channel id="OBS.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">OBS</display-name>
-  </channel>
-  <channel id="KBS.Drama.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_kbsdrama.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_kbsdrama.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KBS Drama</display-name>
+    <display-name lang="ko">Eurosport</display-name>
   </channel>
   <channel id="SBS.funE.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/202201/logo_sbsfunE.png" />
@@ -146,79 +12,103 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">SBS funE</display-name>
   </channel>
-  <channel id="YTN사이언스.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_ytnscience.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_ytnscience.png" />
+  <channel id="라이프타임.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201709/lifetime_logo(1).png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201709/lifetime_logo(1).png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">YTN사이언스</display-name>
+    <display-name lang="ko">라이프타임</display-name>
   </channel>
-  <channel id="MBN.kr">
+  <channel id="Satio.드라마.같은.사랑,.러브.발라드.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MBN</display-name>
+    <display-name lang="ko">Satio 드라마 같은 사랑, 러브 발라드</display-name>
   </channel>
-  <channel id="TLC여행레저채널.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_TLC_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_TLC_logo.jpg" />
+  <channel id="디스커버리.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201802/DSC_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201802/DSC_logo.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">TLC여행레저채널</display-name>
+    <display-name lang="ko">디스커버리</display-name>
   </channel>
-  <channel id="E채널.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201309/1378952928478.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201309/1378952928478.jpg" />
+  <channel id="skySports.kr">
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/33eb7b8104165fe65e3e1e74f84f6bbafac20880133c0bb6305889579ab4bf73_1.png" />
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/33eb7b8104165fe65e3e1e74f84f6bbafac20880133c0bb6305889579ab4bf73_1.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">E채널</display-name>
+    <display-name lang="ko">skySports</display-name>
   </channel>
-  <channel id="KBS.LIFE.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202104/210401_KBS LIFE_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202104/210401_KBS LIFE_logo.jpg" />
+  <channel id="최신인기댄스&amp;힙합.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KBS LIFE</display-name>
+    <display-name lang="ko">최신인기댄스&amp;힙합</display-name>
   </channel>
-  <channel id="K.STAR.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_37.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_37.gif" />
+  <channel id="VIKI.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201905/ch_viki.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201905/ch_viki.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">K STAR</display-name>
+    <display-name lang="ko">VIKI</display-name>
   </channel>
-  <channel id="MBC.ON.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201902/MBC_ON_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201902/MBC_ON_logo.jpg" />
+  <channel id="tvN.STORY.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202104/210430_tvN Story_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202104/210430_tvN Story_logo.jpg" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MBC ON</display-name>
+    <display-name lang="ko">tvN STORY</display-name>
   </channel>
-  <channel id="CMCTV.kr">
+  <channel id="BTN불교TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_52.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_52.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CMCTV</display-name>
+    <display-name lang="ko">BTN불교TV</display-name>
   </channel>
-  <channel id="SPOTV.ON(유료).kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime_205x85.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime_205x85.jpg" />
+  <channel id="국회방송.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_natv.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_natv.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SPOTV ON(유료)</display-name>
+    <display-name lang="ko">국회방송</display-name>
   </channel>
-  <channel id="tvN.SHOW.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202109/20210901_tvnshow_Logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202109/20210901_tvnshow_Logo.jpg" />
+  <channel id="Mnet.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_27.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_27.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">tvN SHOW</display-name>
+    <display-name lang="ko">Mnet</display-name>
   </channel>
-  <channel id="비너스TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_venus-tv.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_venus-tv.png" />
+  <channel id="KT알파쇼핑.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201703/26_shoppingnt.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201703/26_shoppingnt.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">비너스TV</display-name>
+    <display-name lang="ko">KT알파쇼핑</display-name>
   </channel>
-  <channel id="매일경제TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202506/유로무비.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202506/유로무비.jpg" />
+  <channel id="현대홈쇼핑+Shop.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_hyundaishop.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_hyundaishop.gif" />
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/63efc1d3f9a336d70b64bcc41964f986c99a6df91e8908830f236d3f94fd1f71_1.png" />
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/63efc1d3f9a336d70b64bcc41964f986c99a6df91e8908830f236d3f94fd1f71_1.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">매일경제TV</display-name>
+    <display-name lang="ko">현대홈쇼핑+Shop</display-name>
   </channel>
-  <channel id="연합뉴스TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201503/channel_logo_573.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201503/channel_logo_573.gif" />
+  <channel id="YTN2.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202102/210301_YTN2_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202102/210301_YTN2_logo.jpg" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">연합뉴스TV</display-name>
+    <display-name lang="ko">YTN2</display-name>
+  </channel>
+  <channel id="SBS.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SBS</display-name>
+  </channel>
+  <channel id="애니원.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_160.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_160.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">애니원</display-name>
+  </channel>
+  <channel id="NBS한국농업방송.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">NBS한국농업방송</display-name>
+  </channel>
+  <channel id="쇼핑엔티.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201507/channel_logo_LOTTEOneTV.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201507/channel_logo_LOTTEOneTV.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">쇼핑엔티</display-name>
   </channel>
   <channel id="JTBC.Golf.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/202312/231215_JTBCGOLF_logo.jpg" />
@@ -228,23 +118,27 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">JTBC Golf</display-name>
   </channel>
-  <channel id="CGTN.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201704/178_CGTN.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201704/178_CGTN.png" />
+  <channel id="Edge.TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_104.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_104.jpg" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CGTN</display-name>
+    <display-name lang="ko">Edge TV</display-name>
   </channel>
-  <channel id="Smithsonian.Channel.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_Smithsonian-Channel.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_Smithsonian-Channel.png" />
+  <channel id="더무비.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_themovie.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_themovie.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Smithsonian Channel</display-name>
+    <display-name lang="ko">더무비</display-name>
   </channel>
-  <channel id="ENA.STORY.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA STORY_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA STORY_logo.png" />
+  <channel id="채널A.kr">
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">ENA STORY</display-name>
+    <display-name lang="ko">채널A</display-name>
+  </channel>
+  <channel id="KTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_184.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_184.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KTV</display-name>
   </channel>
   <channel id="SBS.Sports.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/202312/231219_SBS Sports_logo.jpg" />
@@ -252,76 +146,93 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">SBS Sports</display-name>
   </channel>
-  <channel id="NOW제주TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201912/nowjejutv_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201912/nowjejutv_logo.png" />
+  <channel id="KISS.재즈.라운지.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">NOW제주TV</display-name>
+    <display-name lang="ko">KISS 재즈 라운지</display-name>
   </channel>
-  <channel id="Satio.추억의.올드.팝송.kr">
+  <channel id="GS.SHOP.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_hyundaihs.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_hyundaihs.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">GS SHOP</display-name>
+  </channel>
+  <channel id="카툰네트워크.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_358.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_358.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">카툰네트워크</display-name>
+  </channel>
+  <channel id="동아TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201610/logo_dongatv.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201610/logo_dongatv.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">동아TV</display-name>
+  </channel>
+  <channel id="플레이보이TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_playboytv.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_playboytv.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">플레이보이TV</display-name>
+  </channel>
+  <channel id="코미디TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202401/240115_comedy_tv_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202401/240115_comedy_tv_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">코미디TV</display-name>
+  </channel>
+  <channel id="KISS.기독교.음악.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 기독교 음악</display-name>
+  </channel>
+  <channel id="EBS플러스1.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_113.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_113.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">EBS플러스1</display-name>
+  </channel>
+  <channel id="중화TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_ZHTV.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_ZHTV.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">중화TV</display-name>
+  </channel>
+  <channel id="OBS.W.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_128.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_128.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ak.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ak.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">OBS W</display-name>
+  </channel>
+  <channel id="신세계쇼핑.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_ssgshopping_en_521.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_ssgshopping_en_521.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">신세계쇼핑</display-name>
+  </channel>
+  <channel id="채널이엠.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201908/chEM_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201908/chEM_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">채널이엠</display-name>
+  </channel>
+  <channel id="Satio.인기성인가요.kr">
     <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 추억의 올드 팝송</display-name>
+    <display-name lang="ko">Satio 인기성인가요</display-name>
   </channel>
-  <channel id="홈&amp;쇼핑.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_homenshopping.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_homenshopping.png" />
+  <channel id="KISS.명품클래식.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">홈&amp;쇼핑</display-name>
+    <display-name lang="ko">KISS 명품클래식</display-name>
   </channel>
-  <channel id="월드클래식무비.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_world classic movie.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_world classic movie.png" />
+  <channel id="CCTV4.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_159.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_159.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">월드클래식무비</display-name>
-  </channel>
-  <channel id="토마토증권통.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202105/210520_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202105/210520_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">토마토증권통</display-name>
-  </channel>
-  <channel id="KT알파쇼핑.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201703/26_shoppingnt.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201703/26_shoppingnt.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KT알파쇼핑</display-name>
-  </channel>
-  <channel id="가톨릭평화방송.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201611/logo_cpbc.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201611/logo_cpbc.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">가톨릭평화방송</display-name>
-  </channel>
-  <channel id="뽀요TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202109/211001_ppoyo_Logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202109/211001_ppoyo_Logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">뽀요TV</display-name>
-  </channel>
-  <channel id="SPOTV.Prime(유료).kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime+_205x85.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime+_205x85.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SPOTV Prime(유료)</display-name>
-  </channel>
-  <channel id="SPOTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_spotv.PNG" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_spotv.PNG" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SPOTV</display-name>
-  </channel>
-  <channel id="더.라이프.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_theLife_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_theLife_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">더 라이프</display-name>
-  </channel>
-  <channel id="VIKI.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201905/ch_viki.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201905/ch_viki.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">VIKI</display-name>
+    <display-name lang="ko">CCTV4</display-name>
   </channel>
   <channel id="텔레노벨라.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_telenovela.png" />
@@ -329,45 +240,97 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">텔레노벨라</display-name>
   </channel>
-  <channel id="국방TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202404/KFN_LOGO.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202404/KFN_LOGO.jpg" />
+  <channel id="브레인TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_488.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_488.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">국방TV</display-name>
+    <display-name lang="ko">브레인TV</display-name>
   </channel>
-  <channel id="허니TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201709/honeyTV_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201709/honeyTV_logo.png" />
+  <channel id="SPOTV.ON2(유료).kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime2_205x85.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime2_205x85.jpg" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">허니TV</display-name>
+    <display-name lang="ko">SPOTV ON2(유료)</display-name>
   </channel>
-  <channel id="tvN.SPORTS.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202210/221020_tvnsports_rogo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202210/221020_tvnsports_rogo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">tvN SPORTS</display-name>
+  <channel id="Airrang.UN.kr">
+    <icon src="data:image/png;base64,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" />
+    <icon src="data:image/png;base64,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" />
+    <url>http://www.arirang.com</url>
+    <display-name lang="ko">Airrang UN</display-name>
   </channel>
-  <channel id="이벤트TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202107/eventtv_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202107/eventtv_logo.jpg" />
+  <channel id="KBS.Drama.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_kbsdrama.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_kbsdrama.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">이벤트TV</display-name>
+    <display-name lang="ko">KBS Drama</display-name>
   </channel>
-  <channel id="sky지역방송.kr">
+  <channel id="채널A플러스.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202412/채널A_플러스_kor.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202412/채널A_플러스_kor.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202407/205x85_채널A.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202407/205x85_채널A.jpg" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">sky지역방송</display-name>
+    <display-name lang="ko">채널A플러스</display-name>
   </channel>
-  <channel id="애니맥스.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_725.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_725.gif" />
+  <channel id="OCN.Movies.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200301_ocn_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200301_ocn_logo.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">애니맥스</display-name>
+    <display-name lang="ko">OCN Movies</display-name>
   </channel>
-  <channel id="캐치온1(유료).kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200301_OCN Movies logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200301_OCN Movies logo.png" />
+  <channel id="바둑TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220427_go_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220427_go_logo.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">캐치온1(유료)</display-name>
+    <display-name lang="ko">바둑TV</display-name>
+  </channel>
+  <channel id="STB상생방송.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_779.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_779.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">STB상생방송</display-name>
+  </channel>
+  <channel id="KBS1.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_kbs.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_kbs.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KBS1</display-name>
+  </channel>
+  <channel id="SPOTV2.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_spotv2_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_spotv2_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SPOTV2</display-name>
+  </channel>
+  <channel id="MBC.M.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202002/MBC M2.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202002/MBC M2.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MBC M</display-name>
+  </channel>
+  <channel id="EBS플러스2.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_114.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_114.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">EBS플러스2</display-name>
+  </channel>
+  <channel id="MBC.NET.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_764.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_764.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MBC NET</display-name>
+  </channel>
+  <channel id="BBC.News.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202304/230403_bbcnews_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202304/230403_bbcnews_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">BBC News</display-name>
+  </channel>
+  <channel id="뽀요TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202109/211001_ppoyo_Logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202109/211001_ppoyo_Logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">뽀요TV</display-name>
   </channel>
   <channel id="EBS.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_ebs.png" />
@@ -375,11 +338,21 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">EBS</display-name>
   </channel>
-  <channel id="Eurosport.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201905/eurosport_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201905/eurosport_logo.png" />
+  <channel id="NS홈쇼핑.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_133.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_133.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Eurosport</display-name>
+    <display-name lang="ko">NS홈쇼핑</display-name>
+  </channel>
+  <channel id="ASIA.UHD.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201705/AsiaUHD.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201705/AsiaUHD.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">ASIA UHD</display-name>
+  </channel>
+  <channel id="CMCTV.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CMCTV</display-name>
   </channel>
   <channel id="Golf&amp;PBA.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_GolfPBA_logo.jpg" />
@@ -387,11 +360,194 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">Golf&amp;PBA</display-name>
   </channel>
-  <channel id="ORFEO.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202104/210430_ORFEO_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202104/210430_ORFEO_logo.jpg" />
+  <channel id="BBS.불교방송.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_903.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_903.jpg" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">ORFEO</display-name>
+    <display-name lang="ko">BBS 불교방송</display-name>
+  </channel>
+  <channel id="엑스원.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202305/230502_xone_rogo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202305/230502_xone_rogo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">엑스원</display-name>
+  </channel>
+  <channel id="9colors.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_9colors.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_9colors.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">9colors</display-name>
+  </channel>
+  <channel id="스마일TV+.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201907/smileTV_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201907/smileTV_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">스마일TV+</display-name>
+  </channel>
+  <channel id="YTN사이언스.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_ytnscience.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_ytnscience.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">YTN사이언스</display-name>
+  </channel>
+  <channel id="OCN.Movies2.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201811/cmcTV_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201811/cmcTV_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">OCN Movies2</display-name>
+  </channel>
+  <channel id="CH.U.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201902/chu_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201902/chu_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CH.U</display-name>
+  </channel>
+  <channel id="SBS.F!L.UHD.kr">
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/7216aa166d29b22327ad87e4531276328cd7c71826e3c5ae5de730429959fc12_1.png" />
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/7216aa166d29b22327ad87e4531276328cd7c71826e3c5ae5de730429959fc12_1.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202412/205x85_sbs_life.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202412/205x85_sbs_life.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SBS F!L UHD</display-name>
+  </channel>
+  <channel id="CJ.온스타일.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CJ 온스타일</display-name>
+  </channel>
+  <channel id="토마토증권통.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202105/210520_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202105/210520_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">토마토증권통</display-name>
+  </channel>
+  <channel id="Satio.7080.히트가요.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 7080 히트가요</display-name>
+  </channel>
+  <channel id="FTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_262.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_262.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">FTV</display-name>
+  </channel>
+  <channel id="JTBC4.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201804/JTBC4_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201804/JTBC4_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">JTBC4</display-name>
+  </channel>
+  <channel id="CBSTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_156.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_156.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CBSTV</display-name>
+  </channel>
+  <channel id="Fox.news.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201902/캡처.PNG" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201902/캡처.PNG" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Fox news</display-name>
+  </channel>
+  <channel id="시네마천국.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202106/20210701_CINEMA_Logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202106/20210701_CINEMA_Logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">시네마천국</display-name>
+  </channel>
+  <channel id="JTBC2.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_jtbc2.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_jtbc2.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">JTBC2</display-name>
+  </channel>
+  <channel id="공영쇼핑.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201810/gongyoung_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201810/gongyoung_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">공영쇼핑</display-name>
+  </channel>
+  <channel id="이데일리TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202412/205x85_매일경제TV.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202412/205x85_매일경제TV.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">이데일리TV</display-name>
+  </channel>
+  <channel id="WBS원음방송.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_wbswoneum.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_wbswoneum.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">WBS원음방송</display-name>
+  </channel>
+  <channel id="디자이어TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201709/desireTV_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201709/desireTV_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">디자이어TV</display-name>
+  </channel>
+  <channel id="SPOTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_spotv.PNG" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_spotv.PNG" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SPOTV</display-name>
+  </channel>
+  <channel id="채널차이나.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202401/채널차이나_2024.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202401/채널차이나_2024.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">채널차이나</display-name>
+  </channel>
+  <channel id="UMAX.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200323_UMAX_logo_2.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200323_UMAX_logo_2.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">UMAX</display-name>
+  </channel>
+  <channel id="E채널.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201309/1378952928478.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201309/1378952928478.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">E채널</display-name>
+  </channel>
+  <channel id="OCN.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202505/THE_M_w.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202505/THE_M_w.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">OCN</display-name>
+  </channel>
+  <channel id="STATV.kr">
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/bc23b9d41c723f67157bc507a6d036c8b24b800041c7293663f6ea34eae73d80.png" />
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/bc23b9d41c723f67157bc507a6d036c8b24b800041c7293663f6ea34eae73d80.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">STATV</display-name>
+  </channel>
+  <channel id="KISS.최신인기가요차트.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 최신인기가요차트</display-name>
+  </channel>
+  <channel id="한경arteTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202212/205x85_한경arteTV.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202212/205x85_한경arteTV.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">한경arteTV</display-name>
+  </channel>
+  <channel id="OLIFE.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202009/200914_OLIFE_LOGO.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202009/200914_OLIFE_LOGO.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">OLIFE</display-name>
+  </channel>
+  <channel id="Satio.추억의.올드.팝송.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 추억의 올드 팝송</display-name>
+  </channel>
+  <channel id="허니TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201709/honeyTV_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201709/honeyTV_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">허니TV</display-name>
   </channel>
   <channel id="BilliardsTV.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_billiardstv.png" />
@@ -399,16 +555,701 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">BilliardsTV</display-name>
   </channel>
-  <channel id="Edge.TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_104.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_104.jpg" />
+  <channel id="Kiss.Music.Portal.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201905/channel_logo_au.gif" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Edge TV</display-name>
+    <display-name lang="ko">Kiss Music Portal</display-name>
+  </channel>
+  <channel id="tvN.DRAMA.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202109/20210901_tvndrama_Logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202109/20210901_tvndrama_Logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">tvN DRAMA</display-name>
+  </channel>
+  <channel id="KISS.2000년대.인기가요.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 2000년대 인기가요</display-name>
+  </channel>
+  <channel id="디원.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201602/logo_done.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201602/logo_done.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">디원</display-name>
+  </channel>
+  <channel id="현대홈쇼핑.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">현대홈쇼핑</display-name>
+  </channel>
+  <channel id="Satio.홈클래식.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 홈클래식</display-name>
+  </channel>
+  <channel id="ORFEO.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202104/210430_ORFEO_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202104/210430_ORFEO_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">ORFEO</display-name>
+  </channel>
+  <channel id="SBS.Biz.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_SBS Biz_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_SBS Biz_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SBS Biz</display-name>
+  </channel>
+  <channel id="Smithsonian.Channel.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_Smithsonian-Channel.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_Smithsonian-Channel.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Smithsonian Channel</display-name>
+  </channel>
+  <channel id="신기한나라TV(유료).kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">신기한나라TV(유료)</display-name>
+  </channel>
+  <channel id="ENA.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">ENA</display-name>
+  </channel>
+  <channel id="마운틴TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201802/193번_마운틴TV.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201802/193번_마운틴TV.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">마운틴TV</display-name>
+  </channel>
+  <channel id="연합뉴스TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201503/channel_logo_573.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201503/channel_logo_573.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">연합뉴스TV</display-name>
+  </channel>
+  <channel id="ONCE.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200316_ONCE logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200316_ONCE logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">ONCE</display-name>
+  </channel>
+  <channel id="FISHING.TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202402/fishingTV.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202402/fishingTV.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">FISHING TV</display-name>
+  </channel>
+  <channel id="대한민국.역대.발라드.명곡.770선.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">대한민국 역대 발라드 명곡 770선</display-name>
+  </channel>
+  <channel id="CTS기독교TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_42.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_42.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CTS기독교TV</display-name>
+  </channel>
+  <channel id="ONT.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_catchon2.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_catchon2.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">ONT</display-name>
+  </channel>
+  <channel id="MX.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_MX_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_MX_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MX</display-name>
+  </channel>
+  <channel id="월드클래식무비.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_world classic movie.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_world classic movie.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">월드클래식무비</display-name>
+  </channel>
+  <channel id="OUN.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_broadcastunivTV.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_broadcastunivTV.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">OUN</display-name>
+  </channel>
+  <channel id="스크린.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201403/1395188617793.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201403/1395188617793.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">스크린</display-name>
+  </channel>
+  <channel id="MAXPORTS.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202311/MAXPORTS logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202311/MAXPORTS logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MAXPORTS</display-name>
+  </channel>
+  <channel id="Satio.럭셔리.파티.라운지.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 럭셔리 파티 라운지</display-name>
+  </channel>
+  <channel id="쿠키건강TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202504/쿠키건강tv.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202504/쿠키건강tv.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">쿠키건강TV</display-name>
+  </channel>
+  <channel id="KISS.키스.더.트롯.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 키스 더 트롯</display-name>
+  </channel>
+  <channel id="KBS.Kids.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201309/1378973199000.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201309/1378973199000.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KBS Kids</display-name>
+  </channel>
+  <channel id="한국직업방송.kr">
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/2d10b901aec892b19bbca706529d3fcd0a9d151939ee7696bbe78075d260ebc0_1.png" />
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/2d10b901aec892b19bbca706529d3fcd0a9d151939ee7696bbe78075d260ebc0_1.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">한국직업방송</display-name>
+  </channel>
+  <channel id="TVCHOSUN2.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201812/tvchosun2_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201812/tvchosun2_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">TVCHOSUN2</display-name>
+  </channel>
+  <channel id="W쇼핑.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_wshopping_.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_wshopping_.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">W쇼핑</display-name>
+  </channel>
+  <channel id="SBS.F!L.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SBS F!L</display-name>
+  </channel>
+  <channel id="tvN.SHOW.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202109/20210901_tvnshow_Logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202109/20210901_tvnshow_Logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">tvN SHOW</display-name>
+  </channel>
+  <channel id="컬쳐플러스.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202504/엣지온_new.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202504/엣지온_new.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">컬쳐플러스</display-name>
+  </channel>
+  <channel id="AsiaM.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200323_AsiaM_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200323_AsiaM_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">AsiaM</display-name>
+  </channel>
+  <channel id="국방TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202404/KFN_LOGO.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202404/KFN_LOGO.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">국방TV</display-name>
+  </channel>
+  <channel id="BBC.World.Service.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_as.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_as.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">BBC World Service</display-name>
+  </channel>
+  <channel id="C.Music.TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_C-Music.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_C-Music.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">C Music TV</display-name>
+  </channel>
+  <channel id="KISS.클래식.산책.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 클래식 산책</display-name>
+  </channel>
+  <channel id="CNN.International.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_117.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_117.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CNN International</display-name>
+  </channel>
+  <channel id="Midnight.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_midnight.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_midnight.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Midnight</display-name>
+  </channel>
+  <channel id="I.net.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_118.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_118.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">I.net</display-name>
+  </channel>
+  <channel id="CINEF.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201704/069_CINEF_2.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201704/069_CINEF_2.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CINEF</display-name>
+  </channel>
+  <channel id="KBS2.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_kbs_1.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_kbs_1.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KBS2</display-name>
+  </channel>
+  <channel id="KISS.응답하라.8090.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 응답하라 8090</display-name>
+  </channel>
+  <channel id="K.STAR.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_37.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_37.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">K STAR</display-name>
+  </channel>
+  <channel id="ENA.DRAMA.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA DRAMA_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA DRAMA_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">ENA DRAMA</display-name>
+  </channel>
+  <channel id="JEI재능TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201501/channel_logo_23.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201501/channel_logo_23.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">JEI재능TV</display-name>
+  </channel>
+  <channel id="KBS.N.Sports.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_kbsnsports.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_kbsnsports.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KBS N Sports</display-name>
+  </channel>
+  <channel id="채널W.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_chw.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_chw.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">채널W</display-name>
+  </channel>
+  <channel id="BBC.Earth.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201510/channel_logo_904_2.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201510/channel_logo_904_2.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">BBC Earth</display-name>
+  </channel>
+  <channel id="MBC.Every1.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220420_mbcevery1_rogo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220420_mbcevery1_rogo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MBC Every1</display-name>
+  </channel>
+  <channel id="CGTN.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201704/178_CGTN.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201704/178_CGTN.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CGTN</display-name>
+  </channel>
+  <channel id="K바둑.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_K-Baduk.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_K-Baduk.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">K바둑</display-name>
+  </channel>
+  <channel id="Satio.최신인기가요.HOT.150.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 최신인기가요 HOT 150</display-name>
+  </channel>
+  <channel id="홈&amp;쇼핑.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_homenshopping.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_homenshopping.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">홈&amp;쇼핑</display-name>
+  </channel>
+  <channel id="KISS.당신을.위한.발라드.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 당신을 위한 발라드</display-name>
+  </channel>
+  <channel id="SBS.Golf2.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SBS Golf2</display-name>
+  </channel>
+  <channel id="더.라이프.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_theLife_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_theLife_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">더 라이프</display-name>
   </channel>
   <channel id="Satio.엄마랑.EQ동요.kr">
     <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">Satio 엄마랑 EQ동요</display-name>
+  </channel>
+  <channel id="SBS.Plus.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_54.gif.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_54.gif.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SBS Plus</display-name>
+  </channel>
+  <channel id="한국경제TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_106.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_106.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">한국경제TV</display-name>
+  </channel>
+  <channel id="TV조선.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_tvchosun.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_tvchosun.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">TV조선</display-name>
+  </channel>
+  <channel id="Satio.선데이.브런치카페.팝스.인.뉴욕.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 선데이 브런치카페 팝스 인 뉴욕</display-name>
+  </channel>
+  <channel id="캐치온1(유료).kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200301_OCN Movies logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200301_OCN Movies logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">캐치온1(유료)</display-name>
+  </channel>
+  <channel id="FIGHT.SPORTS.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202109/211001_fightsports_Logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202109/211001_fightsports_Logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">FIGHT SPORTS</display-name>
+  </channel>
+  <channel id="아리랑TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_50.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_50.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">아리랑TV</display-name>
+  </channel>
+  <channel id="JTBC.GOLF&amp;SPORTS.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202602/jtbc_sprots(205x85).jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202602/jtbc_sprots(205x85).jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">JTBC GOLF&amp;SPORTS</display-name>
+  </channel>
+  <channel id="EBS.English.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_777.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_777.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">EBS English</display-name>
+  </channel>
+  <channel id="GOODTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201802/195번_GOODTV.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201802/195번_GOODTV.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">GOODTV</display-name>
+  </channel>
+  <channel id="리얼TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201811/realtv_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201811/realtv_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">리얼TV</display-name>
+  </channel>
+  <channel id="KISS.다문화가족.음악방송1.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 다문화가족 음악방송1</display-name>
+  </channel>
+  <channel id="Sky.Ultra.Audio.CD.클래식.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201608/logo_UltraAudio_Classic.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Sky Ultra Audio CD 클래식</display-name>
+  </channel>
+  <channel id="skyUHD.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201607/logo_skyuhd.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201607/logo_skyuhd.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">skyUHD</display-name>
+  </channel>
+  <channel id="투니버스.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ao.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ao.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">투니버스</display-name>
+  </channel>
+  <channel id="AXN.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202501/NXT_LOGO.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202501/NXT_LOGO.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">AXN</display-name>
+  </channel>
+  <channel id="WeLike.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202211/221024_welike_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202211/221024_welike_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">WeLike</display-name>
+  </channel>
+  <channel id="UHD.DreamTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_DreamTV.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_DreamTV.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">UHD DreamTV</display-name>
+  </channel>
+  <channel id="Satio.1969년.명동.음악다방.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 1969년 명동 음악다방</display-name>
+  </channel>
+  <channel id="ENA.PLAY.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA PLAY_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA PLAY_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">ENA PLAY</display-name>
+  </channel>
+  <channel id="NOW제주TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201912/nowjejutv_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201912/nowjejutv_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">NOW제주TV</display-name>
+  </channel>
+  <channel id="NS.SHOP+.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_nshopplus.PNG" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_nshopplus.PNG" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">NS SHOP+</display-name>
+  </channel>
+  <channel id="MTN.머니투데이방송.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202305/230508_머니투데이방송_rogo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202305/230508_머니투데이방송_rogo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MTN 머니투데이방송</display-name>
+  </channel>
+  <channel id="애니플러스.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ap.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ap.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">애니플러스</display-name>
+  </channel>
+  <channel id="히스토리.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_history.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_history.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">히스토리</display-name>
+  </channel>
+  <channel id="MBN플러스.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201911/MBNplus_logo_20191122.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201911/MBNplus_logo_20191122.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201911/MBN_logo_20191122.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201911/MBN_logo_20191122.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MBN플러스</display-name>
+  </channel>
+  <channel id="KBS.LIFE.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202104/210401_KBS LIFE_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202104/210401_KBS LIFE_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KBS LIFE</display-name>
+  </channel>
+  <channel id="NHK.World.Premium.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_nhkworld.PNG" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_nhkworld.PNG" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">NHK World Premium</display-name>
+  </channel>
+  <channel id="롯데홈쇼핑.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_lottehomeshopping.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_lottehomeshopping.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">롯데홈쇼핑</display-name>
+  </channel>
+  <channel id="복지TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_wbcwellfaretv.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_wbcwellfaretv.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">복지TV</display-name>
+  </channel>
+  <channel id="GTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_35.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_35.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">GTV</display-name>
+  </channel>
+  <channel id="서울경제TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_sen.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_sen.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">서울경제TV</display-name>
+  </channel>
+  <channel id="메디컬TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202010/201015_메디컬tv_Logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202010/201015_메디컬tv_Logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">메디컬TV</display-name>
+  </channel>
+  <channel id="KISS.다문화가족.음악방송2.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 다문화가족 음악방송2</display-name>
+  </channel>
+  <channel id="SPOTV.ON(유료).kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime_205x85.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime_205x85.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SPOTV ON(유료)</display-name>
+  </channel>
+  <channel id="핑크하우스.kr">
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/312bc59583a3fef5751d528528d2a6c0c7bb8797295107a114132c984a3b84a2.jpg" />
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/312bc59583a3fef5751d528528d2a6c0c7bb8797295107a114132c984a3b84a2.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">핑크하우스</display-name>
+  </channel>
+  <channel id="Dramax.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Dramax</display-name>
+  </channel>
+  <channel id="KISS.최신인기가요.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 최신인기가요</display-name>
+  </channel>
+  <channel id="tvN.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_tvn.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_tvn.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">tvN</display-name>
+  </channel>
+  <channel id="OBS.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">OBS</display-name>
+  </channel>
+  <channel id="캐치온2(유료).kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202210/221004_OCN Movies2_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202210/221004_OCN Movies2_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">캐치온2(유료)</display-name>
+  </channel>
+  <channel id="KBS.Joy.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200306_KBS JOY LOGO.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202003/200306_KBS JOY LOGO.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KBS Joy</display-name>
+  </channel>
+  <channel id="CJ.온스타일플러스.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202205/220601_ktalphashop_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202205/220601_ktalphashop_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202105/210510_CJonstyle_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202105/210510_CJonstyle_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CJ 온스타일플러스</display-name>
+  </channel>
+  <channel id="애니박스.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201508/channel_logo_740_1.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201508/channel_logo_740_1.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">애니박스</display-name>
+  </channel>
+  <channel id="Animal.Planet.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_animalplanet.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_animalplanet.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Animal Planet</display-name>
+  </channel>
+  <channel id="비너스TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_venus-tv.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202006/200605_venus-tv.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">비너스TV</display-name>
+  </channel>
+  <channel id="드라마큐브.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_499.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_499.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">드라마큐브</display-name>
+  </channel>
+  <channel id="하이라이트TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201610/logo_highlight.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201610/logo_highlight.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">하이라이트TV</display-name>
+  </channel>
+  <channel id="FUN.TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201907/FUN-TV_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201907/FUN-TV_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">FUN TV</display-name>
+  </channel>
+  <channel id="Sky.Ultra.Audio.K-POP.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201608/logo_UltraAudio_Kpop.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Sky Ultra Audio K-POP</display-name>
+  </channel>
+  <channel id="채널.뷰.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_chview.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_chview.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">채널 뷰</display-name>
+  </channel>
+  <channel id="가톨릭평화방송.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201611/logo_cpbc.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201611/logo_cpbc.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">가톨릭평화방송</display-name>
+  </channel>
+  <channel id="육아방송.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201802/190번_육아방송.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201802/190번_육아방송.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">육아방송</display-name>
+  </channel>
+  <channel id="YTN.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_ytn.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_ytn.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">YTN</display-name>
+  </channel>
+  <channel id="KISS.탑골.K-POP.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 탑골 K-POP</display-name>
+  </channel>
+  <channel id="ENA.STORY.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA STORY_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA STORY_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">ENA STORY</display-name>
+  </channel>
+  <channel id="MBC.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201903/MBC_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201903/MBC_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MBC</display-name>
+  </channel>
+  <channel id="인디필름.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202504/씨네트리_new.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202504/씨네트리_new.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">인디필름</display-name>
+  </channel>
+  <channel id="이벤트TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202107/eventtv_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202107/eventtv_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">이벤트TV</display-name>
+  </channel>
+  <channel id="채널J.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_chj.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_chj.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">채널J</display-name>
+  </channel>
+  <channel id="Satio.트로트.가요무대.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 트로트 가요무대</display-name>
+  </channel>
+  <channel id="Arirang.Korea.kr">
+    <url>http://www.arirang.com</url>
+    <display-name lang="ko">Arirang Korea</display-name>
   </channel>
   <channel id="Arirang.Korean.TV.(ARANG).kr">
     <icon src="data:image/png;base64,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" />
@@ -1138,1035 +1979,11 @@
     <url>http://www.tvguide.com</url>
     <display-name lang="en">Arirang Korean TV (ARANG)</display-name>
   </channel>
-  <channel id="채널.뷰.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_chview.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_chview.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">채널 뷰</display-name>
-  </channel>
-  <channel id="이데일리TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202412/205x85_매일경제TV.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202412/205x85_매일경제TV.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">이데일리TV</display-name>
-  </channel>
-  <channel id="Satio.인기성인가요.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 인기성인가요</display-name>
-  </channel>
-  <channel id="애니원.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_160.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_160.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">애니원</display-name>
-  </channel>
-  <channel id="GS.MY.SHOP.kr">
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/24bbc560e12422646a91986a3ad94c7dce0663c3220c7d6035d46f1527560ac1_1.png" />
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/24bbc560e12422646a91986a3ad94c7dce0663c3220c7d6035d46f1527560ac1_1.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">GS MY SHOP</display-name>
-  </channel>
-  <channel id="Satio.드라마.같은.사랑,.러브.발라드.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 드라마 같은 사랑, 러브 발라드</display-name>
-  </channel>
-  <channel id="BBC.Earth.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201510/channel_logo_904_2.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201510/channel_logo_904_2.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">BBC Earth</display-name>
-  </channel>
-  <channel id="Midnight.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_midnight.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_midnight.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Midnight</display-name>
-  </channel>
-  <channel id="KBS.N.Sports.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_kbsnsports.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_kbsnsports.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KBS N Sports</display-name>
-  </channel>
-  <channel id="ONT.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_catchon2.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_catchon2.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">ONT</display-name>
-  </channel>
-  <channel id="채널차이나.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202401/채널차이나_2024.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202401/채널차이나_2024.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">채널차이나</display-name>
-  </channel>
-  <channel id="tvN.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_tvn.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_tvn.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">tvN</display-name>
-  </channel>
-  <channel id="엑스원.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202305/230502_xone_rogo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202305/230502_xone_rogo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">엑스원</display-name>
-  </channel>
-  <channel id="캐치온2(유료).kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202210/221004_OCN Movies2_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202210/221004_OCN Movies2_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">캐치온2(유료)</display-name>
-  </channel>
-  <channel id="MAXPORTS.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202311/MAXPORTS logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202311/MAXPORTS logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MAXPORTS</display-name>
-  </channel>
-  <channel id="투니버스.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ao.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ao.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">투니버스</display-name>
-  </channel>
-  <channel id="아리랑TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_50.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_50.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">아리랑TV</display-name>
-  </channel>
-  <channel id="키즈톡톡플러스(유료).kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201402/1392196793103.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201402/1392196793103.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">키즈톡톡플러스(유료)</display-name>
-  </channel>
-  <channel id="CJ.온스타일플러스.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202205/220601_ktalphashop_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202205/220601_ktalphashop_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202105/210510_CJonstyle_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202105/210510_CJonstyle_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CJ 온스타일플러스</display-name>
-  </channel>
-  <channel id="디원.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201602/logo_done.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201602/logo_done.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">디원</display-name>
-  </channel>
-  <channel id="한국직업방송.kr">
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/2d10b901aec892b19bbca706529d3fcd0a9d151939ee7696bbe78075d260ebc0_1.png" />
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/2d10b901aec892b19bbca706529d3fcd0a9d151939ee7696bbe78075d260ebc0_1.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">한국직업방송</display-name>
-  </channel>
-  <channel id="현대홈쇼핑+Shop.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_hyundaishop.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_hyundaishop.gif" />
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/63efc1d3f9a336d70b64bcc41964f986c99a6df91e8908830f236d3f94fd1f71_1.png" />
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/63efc1d3f9a336d70b64bcc41964f986c99a6df91e8908830f236d3f94fd1f71_1.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">현대홈쇼핑+Shop</display-name>
-  </channel>
-  <channel id="ENA.DRAMA.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA DRAMA_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA DRAMA_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">ENA DRAMA</display-name>
-  </channel>
-  <channel id="CCTV4.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_159.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_159.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CCTV4</display-name>
-  </channel>
-  <channel id="드라마큐브.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_499.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_499.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">드라마큐브</display-name>
-  </channel>
-  <channel id="JTBC4.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201804/JTBC4_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201804/JTBC4_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">JTBC4</display-name>
-  </channel>
-  <channel id="OCN.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202505/THE_M_w.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202505/THE_M_w.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">OCN</display-name>
-  </channel>
-  <channel id="히스토리.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_history.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_history.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">히스토리</display-name>
-  </channel>
-  <channel id="FISHING.TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202402/fishingTV.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202402/fishingTV.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">FISHING TV</display-name>
-  </channel>
-  <channel id="EBS.English.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_777.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_777.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">EBS English</display-name>
-  </channel>
-  <channel id="채널J.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_chj.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201604/logo_chj.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">채널J</display-name>
-  </channel>
-  <channel id="UHD.DreamTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_DreamTV.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_DreamTV.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">UHD DreamTV</display-name>
-  </channel>
-  <channel id="KBS1.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_kbs.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_kbs.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KBS1</display-name>
-  </channel>
-  <channel id="CBSTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_156.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_156.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CBSTV</display-name>
-  </channel>
-  <channel id="OBS.W.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_128.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_128.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ak.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ak.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">OBS W</display-name>
-  </channel>
-  <channel id="다문화TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201912/tvm_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201912/tvm_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">다문화TV</display-name>
-  </channel>
-  <channel id="MBC.Every1.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220420_mbcevery1_rogo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220420_mbcevery1_rogo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MBC Every1</display-name>
-  </channel>
-  <channel id="Kiss.Music.Portal.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201905/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Kiss Music Portal</display-name>
-  </channel>
-  <channel id="BTN불교TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_52.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_52.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">BTN불교TV</display-name>
-  </channel>
-  <channel id="OUN.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_broadcastunivTV.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_broadcastunivTV.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">OUN</display-name>
-  </channel>
-  <channel id="KISS.다문화가족.음악방송2.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 다문화가족 음악방송2</display-name>
-  </channel>
-  <channel id="Arirang.World.kr">
-    <icon src="data:image/png;base64,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" />
-    <icon src="data:image/png;base64,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" />
-    <url>http://www.arirang.com</url>
-    <display-name lang="ko">Arirang World</display-name>
-  </channel>
-  <channel id="KISS.기독교.음악.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 기독교 음악</display-name>
-  </channel>
-  <channel id="중화TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_ZHTV.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_ZHTV.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">중화TV</display-name>
-  </channel>
-  <channel id="MBC.NET.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_764.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_764.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MBC NET</display-name>
-  </channel>
-  <channel id="TV조선.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_tvchosun.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_tvchosun.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">TV조선</display-name>
-  </channel>
-  <channel id="KISS.당신을.위한.발라드.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 당신을 위한 발라드</display-name>
-  </channel>
-  <channel id="Satio.Music.Portal.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201807/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio Music Portal</display-name>
-  </channel>
-  <channel id="CH.U.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201902/chu_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201902/chu_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CH.U</display-name>
-  </channel>
-  <channel id="Animal.Planet.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_animalplanet.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_animalplanet.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Animal Planet</display-name>
-  </channel>
-  <channel id="KISS.키스.더.트롯.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 키스 더 트롯</display-name>
-  </channel>
-  <channel id="스크린.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201403/1395188617793.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201403/1395188617793.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">스크린</display-name>
-  </channel>
-  <channel id="KISS.재즈.라운지.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 재즈 라운지</display-name>
-  </channel>
-  <channel id="Mplex.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_167.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_167.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Mplex</display-name>
-  </channel>
-  <channel id="Satio.럭셔리.파티.라운지.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 럭셔리 파티 라운지</display-name>
-  </channel>
-  <channel id="skyGuide.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201704/001_skyGuide.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201704/001_skyGuide.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">skyGuide</display-name>
-  </channel>
-  <channel id="한국경제TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_106.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_106.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">한국경제TV</display-name>
-  </channel>
-  <channel id="Satio.7080.히트가요.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 7080 히트가요</display-name>
-  </channel>
-  <channel id="9colors.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_9colors.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_9colors.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">9colors</display-name>
-  </channel>
-  <channel id="MBN플러스.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201911/MBNplus_logo_20191122.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201911/MBNplus_logo_20191122.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201911/MBN_logo_20191122.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201911/MBN_logo_20191122.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MBN플러스</display-name>
-  </channel>
-  <channel id="SBS.Plus.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_54.gif.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_54.gif.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SBS Plus</display-name>
-  </channel>
-  <channel id="HQ+.kr">
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/a688d83ae8586526909c1329cf917f82c743b5132aad3f492fe7022d3cf4f702.png" />
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/a688d83ae8586526909c1329cf917f82c743b5132aad3f492fe7022d3cf4f702.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">HQ+</display-name>
-  </channel>
-  <channel id="KISS.2000년대.인기가요.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 2000년대 인기가요</display-name>
-  </channel>
-  <channel id="SBS.F!L.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SBS F!L</display-name>
-  </channel>
-  <channel id="KBS.Story.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202104/210401_KBS STORY_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202104/210401_KBS STORY_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KBS Story</display-name>
-  </channel>
-  <channel id="KISS.레전드.가요.스페셜.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 레전드 가요 스페셜</display-name>
-  </channel>
-  <channel id="SBS.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SBS</display-name>
-  </channel>
-  <channel id="SPOTV.ON2(유료).kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime2_205x85.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime2_205x85.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SPOTV ON2(유료)</display-name>
-  </channel>
-  <channel id="W쇼핑.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_wshopping_.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_wshopping_.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">W쇼핑</display-name>
-  </channel>
-  <channel id="KBS.Kids.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201309/1378973199000.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201309/1378973199000.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KBS Kids</display-name>
-  </channel>
-  <channel id="BBC.News.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202304/230403_bbcnews_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202304/230403_bbcnews_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">BBC News</display-name>
-  </channel>
-  <channel id="쇼핑엔티.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201507/channel_logo_LOTTEOneTV.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201507/channel_logo_LOTTEOneTV.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">쇼핑엔티</display-name>
-  </channel>
-  <channel id="플레이보이TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_playboytv.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_playboytv.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">플레이보이TV</display-name>
-  </channel>
-  <channel id="대교어린이TV.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">대교어린이TV</display-name>
-  </channel>
-  <channel id="MBC.SPORTS+.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202504/MBC_스포츠플러스_white.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202504/MBC_스포츠플러스_white.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MBC SPORTS+</display-name>
-  </channel>
-  <channel id="인디필름.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202504/씨네트리_new.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202504/씨네트리_new.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">인디필름</display-name>
-  </channel>
-  <channel id="SBS.Biz.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_SBS Biz_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_SBS Biz_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SBS Biz</display-name>
-  </channel>
-  <channel id="KBS.Joy.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200306_KBS JOY LOGO.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200306_KBS JOY LOGO.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KBS Joy</display-name>
-  </channel>
-  <channel id="동아TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201610/logo_dongatv.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201610/logo_dongatv.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">동아TV</display-name>
-  </channel>
-  <channel id="YTN.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_ytn.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_ytn.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">YTN</display-name>
-  </channel>
-  <channel id="Sky.Ultra.Audio.CD.클래식.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201608/logo_UltraAudio_Classic.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Sky Ultra Audio CD 클래식</display-name>
-  </channel>
-  <channel id="KISS.응답하라.8090.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 응답하라 8090</display-name>
-  </channel>
-  <channel id="국회방송.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_natv.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_natv.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">국회방송</display-name>
-  </channel>
-  <channel id="SK.stoa.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201801/logo_SKstoa.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201801/logo_SKstoa.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SK stoa</display-name>
-  </channel>
-  <channel id="쿠키건강TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202504/쿠키건강tv.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202504/쿠키건강tv.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">쿠키건강TV</display-name>
-  </channel>
-  <channel id="CNTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202401/CNTV_2024.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202401/CNTV_2024.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CNTV</display-name>
-  </channel>
-  <channel id="복지TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_wbcwellfaretv.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_wbcwellfaretv.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">복지TV</display-name>
-  </channel>
-  <channel id="생활체육TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201912/routinesports_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201912/routinesports_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">생활체육TV</display-name>
-  </channel>
-  <channel id="GTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_35.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_35.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">GTV</display-name>
-  </channel>
-  <channel id="skySports.kr">
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/33eb7b8104165fe65e3e1e74f84f6bbafac20880133c0bb6305889579ab4bf73_1.png" />
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/33eb7b8104165fe65e3e1e74f84f6bbafac20880133c0bb6305889579ab4bf73_1.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">skySports</display-name>
-  </channel>
-  <channel id="WBS원음방송.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_wbswoneum.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_wbswoneum.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">WBS원음방송</display-name>
-  </channel>
-  <channel id="UMAX.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200323_UMAX_logo_2.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200323_UMAX_logo_2.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">UMAX</display-name>
-  </channel>
-  <channel id="YTN2.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202102/210301_YTN2_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202102/210301_YTN2_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">YTN2</display-name>
-  </channel>
   <channel id="IB.Sports.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_398.jpg" />
     <icon src="https://static.skylife.co.kr/upload/channel/201410/channel_logo_398.jpg" />
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">IB Sports</display-name>
-  </channel>
-  <channel id="현대홈쇼핑.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">현대홈쇼핑</display-name>
-  </channel>
-  <channel id="SBS.F!L.UHD.kr">
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/7216aa166d29b22327ad87e4531276328cd7c71826e3c5ae5de730429959fc12_1.png" />
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/7216aa166d29b22327ad87e4531276328cd7c71826e3c5ae5de730429959fc12_1.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202412/205x85_sbs_life.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202412/205x85_sbs_life.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SBS F!L UHD</display-name>
-  </channel>
-  <channel id="대한민국.역대.발라드.명곡.770선.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">대한민국 역대 발라드 명곡 770선</display-name>
-  </channel>
-  <channel id="Dramax.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Dramax</display-name>
-  </channel>
-  <channel id="하이라이트TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201610/logo_highlight.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201610/logo_highlight.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">하이라이트TV</display-name>
-  </channel>
-  <channel id="KTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_184.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_184.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KTV</display-name>
-  </channel>
-  <channel id="ENA.PLAY.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA PLAY_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA PLAY_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">ENA PLAY</display-name>
-  </channel>
-  <channel id="핑크하우스.kr">
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/312bc59583a3fef5751d528528d2a6c0c7bb8797295107a114132c984a3b84a2.jpg" />
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/312bc59583a3fef5751d528528d2a6c0c7bb8797295107a114132c984a3b84a2.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">핑크하우스</display-name>
-  </channel>
-  <channel id="NS.SHOP+.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_nshopplus.PNG" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_nshopplus.PNG" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">NS SHOP+</display-name>
-  </channel>
-  <channel id="JTBC.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">JTBC</display-name>
-  </channel>
-  <channel id="Satio.최신인기가요.HOT.150.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 최신인기가요 HOT 150</display-name>
-  </channel>
-  <channel id="KISS.명품클래식.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 명품클래식</display-name>
-  </channel>
-  <channel id="OLIFE.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202009/200914_OLIFE_LOGO.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202009/200914_OLIFE_LOGO.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">OLIFE</display-name>
-  </channel>
-  <channel id="애니플러스.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ap.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ap.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">애니플러스</display-name>
-  </channel>
-  <channel id="STB상생방송.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_779.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_779.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">STB상생방송</display-name>
-  </channel>
-  <channel id="최신인기댄스&amp;힙합.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">최신인기댄스&amp;힙합</display-name>
-  </channel>
-  <channel id="tvN.STORY.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202104/210430_tvN Story_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202104/210430_tvN Story_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">tvN STORY</display-name>
-  </channel>
-  <channel id="JEI재능TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201501/channel_logo_23.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201501/channel_logo_23.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">JEI재능TV</display-name>
-  </channel>
-  <channel id="MBC.M.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202002/MBC M2.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202002/MBC M2.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MBC M</display-name>
-  </channel>
-  <channel id="메디컬TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202010/201015_메디컬tv_Logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202010/201015_메디컬tv_Logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">메디컬TV</display-name>
-  </channel>
-  <channel id="C.Music.TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_C-Music.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_C-Music.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">C Music TV</display-name>
-  </channel>
-  <channel id="서울경제TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_sen.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_sen.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">서울경제TV</display-name>
-  </channel>
-  <channel id="Arirang.Radio.kr">
-    <icon src="data:image/png;base64,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" />
-    <icon src="data:image/png;base64,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" />
-    <url>http://www.arirang.com</url>
-    <display-name lang="ko">Arirang Radio</display-name>
-  </channel>
-  <channel id="LOTTE.OneTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202105/210510_CJonstyleplus_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202105/210510_CJonstyleplus_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">LOTTE OneTV</display-name>
-  </channel>
-  <channel id="K바둑.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_K-Baduk.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_K-Baduk.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">K바둑</display-name>
-  </channel>
-  <channel id="애니박스.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201508/channel_logo_740_1.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201508/channel_logo_740_1.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">애니박스</display-name>
-  </channel>
-  <channel id="더무비.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_themovie.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201605/logo_themovie.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">더무비</display-name>
-  </channel>
-  <channel id="NHK.World.Premium.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_nhkworld.PNG" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_nhkworld.PNG" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">NHK World Premium</display-name>
-  </channel>
-  <channel id="MTN.머니투데이방송.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202305/230508_머니투데이방송_rogo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202305/230508_머니투데이방송_rogo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MTN 머니투데이방송</display-name>
-  </channel>
-  <channel id="신세계쇼핑.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_ssgshopping_en_521.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_ssgshopping_en_521.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">신세계쇼핑</display-name>
-  </channel>
-  <channel id="tvN.DRAMA.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202109/20210901_tvndrama_Logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202109/20210901_tvndrama_Logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">tvN DRAMA</display-name>
-  </channel>
-  <channel id="SBS.Golf2.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SBS Golf2</display-name>
-  </channel>
-  <channel id="CINEF.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201704/069_CINEF_2.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201704/069_CINEF_2.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CINEF</display-name>
-  </channel>
-  <channel id="STATV.kr">
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/bc23b9d41c723f67157bc507a6d036c8b24b800041c7293663f6ea34eae73d80.png" />
-    <icon src="https://static.skylife.co.kr/web/live/channels/logo/bc23b9d41c723f67157bc507a6d036c8b24b800041c7293663f6ea34eae73d80.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">STATV</display-name>
-  </channel>
-  <channel id="OCN.Movies2.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201811/cmcTV_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201811/cmcTV_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">OCN Movies2</display-name>
-  </channel>
-  <channel id="Mnet.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_27.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_27.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Mnet</display-name>
-  </channel>
-  <channel id="공영쇼핑.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201810/gongyoung_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201810/gongyoung_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">공영쇼핑</display-name>
-  </channel>
-  <channel id="채널A플러스.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202412/채널A_플러스_kor.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202412/채널A_플러스_kor.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202407/205x85_채널A.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202407/205x85_채널A.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">채널A플러스</display-name>
-  </channel>
-  <channel id="Fox.news.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201902/캡처.PNG" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201902/캡처.PNG" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Fox news</display-name>
-  </channel>
-  <channel id="ONCE.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200316_ONCE logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200316_ONCE logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">ONCE</display-name>
-  </channel>
-  <channel id="MGTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_MGTV_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_MGTV_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MGTV</display-name>
-  </channel>
-  <channel id="NS홈쇼핑.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_133.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_133.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">NS홈쇼핑</display-name>
-  </channel>
-  <channel id="코미디TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202401/240115_comedy_tv_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202401/240115_comedy_tv_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">코미디TV</display-name>
-  </channel>
-  <channel id="MBC.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201903/MBC_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201903/MBC_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MBC</display-name>
-  </channel>
-  <channel id="채널이엠.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201908/chEM_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201908/chEM_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">채널이엠</display-name>
-  </channel>
-  <channel id="KISS.탑골.K-POP.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 탑골 K-POP</display-name>
-  </channel>
-  <channel id="MX.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_MX_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_MX_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MX</display-name>
-  </channel>
-  <channel id="카툰네트워크.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_358.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_358.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">카툰네트워크</display-name>
-  </channel>
-  <channel id="ENA.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_ENA_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">ENA</display-name>
-  </channel>
-  <channel id="Satio.스무드재즈앳더팜비치.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 스무드재즈앳더팜비치</display-name>
-  </channel>
-  <channel id="육아방송.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201802/190번_육아방송.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201802/190번_육아방송.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">육아방송</display-name>
-  </channel>
-  <channel id="AXN.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202501/NXT_LOGO.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202501/NXT_LOGO.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">AXN</display-name>
-  </channel>
-  <channel id="KISS.한국인이.사랑한.팝송.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 한국인이 사랑한 팝송</display-name>
-  </channel>
-  <channel id="롯데홈쇼핑.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_lottehomeshopping.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_lottehomeshopping.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">롯데홈쇼핑</display-name>
-  </channel>
-  <channel id="MBC드라마.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_mbcdrama.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_mbcdrama.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">MBC드라마</display-name>
-  </channel>
-  <channel id="컬쳐플러스.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202504/엣지온_new.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202504/엣지온_new.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">컬쳐플러스</display-name>
-  </channel>
-  <channel id="I.net.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_118.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_118.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">I.net</display-name>
-  </channel>
-  <channel id="CJ.온스타일.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CJ 온스타일</display-name>
-  </channel>
-  <channel id="ASIA.UHD.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201705/AsiaUHD.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201705/AsiaUHD.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">ASIA UHD</display-name>
-  </channel>
-  <channel id="Satio.1969년.명동.음악다방.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 1969년 명동 음악다방</display-name>
-  </channel>
-  <channel id="WeLike.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202211/221024_welike_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202211/221024_welike_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">WeLike</display-name>
-  </channel>
-  <channel id="신기한나라TV(유료).kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">신기한나라TV(유료)</display-name>
-  </channel>
-  <channel id="디스커버리.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201802/DSC_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201802/DSC_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">디스커버리</display-name>
-  </channel>
-  <channel id="실버아이TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_silveritv.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_silveritv.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">실버아이TV</display-name>
-  </channel>
-  <channel id="SBS.Golf.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_44.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_44.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SBS Golf</display-name>
-  </channel>
-  <channel id="스마일TV+.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201907/smileTV_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201907/smileTV_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">스마일TV+</display-name>
-  </channel>
-  <channel id="KISS.클래식.산책.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 클래식 산책</display-name>
-  </channel>
-  <channel id="FUN.TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201907/FUN-TV_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201907/FUN-TV_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">FUN TV</display-name>
-  </channel>
-  <channel id="TVCHOSUN2.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201812/tvchosun2_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201812/tvchosun2_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">TVCHOSUN2</display-name>
-  </channel>
-  <channel id="AsiaM.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200323_AsiaM_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200323_AsiaM_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">AsiaM</display-name>
-  </channel>
-  <channel id="KISS.최신인기가요차트.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">KISS 최신인기가요차트</display-name>
-  </channel>
-  <channel id="CTS기독교TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_42.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_42.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">CTS기독교TV</display-name>
-  </channel>
-  <channel id="FTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_262.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_262.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">FTV</display-name>
-  </channel>
-  <channel id="Satio.최신유행.클럽음악.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_at_1.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 최신유행 클럽음악</display-name>
-  </channel>
-  <channel id="JTBC.GOLF&amp;SPORTS.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202602/jtbc_sprots(205x85).jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202602/jtbc_sprots(205x85).jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">JTBC GOLF&amp;SPORTS</display-name>
-  </channel>
-  <channel id="Asia.N.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201705/AsiaN.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201705/AsiaN.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Asia N</display-name>
-  </channel>
-  <channel id="Satio.트로트.가요무대.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 트로트 가요무대</display-name>
-  </channel>
-  <channel id="Satio.홈클래식.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">Satio 홈클래식</display-name>
-  </channel>
-  <channel id="SPOTV2.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_spotv2_logo.jpg" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_spotv2_logo.jpg" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SPOTV2</display-name>
-  </channel>
-  <channel id="ARANG.ARANG.(Arirang.TV,.Korea.World.Network).kr">
-    <url>http://www.streamingtvguides.com</url>
-    <display-name lang="en">ARANG ARANG (Arirang TV, Korea World Network)</display-name>
-  </channel>
-  <channel id="OCN.Movies.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200301_ocn_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202003/200301_ocn_logo.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">OCN Movies</display-name>
-  </channel>
-  <channel id="채널A.kr">
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">채널A</display-name>
-  </channel>
-  <channel id="한경arteTV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202212/205x85_한경arteTV.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202212/205x85_한경arteTV.png" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">한경arteTV</display-name>
-  </channel>
-  <channel id="브레인TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_488.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_488.gif" />
-    <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">브레인TV</display-name>
   </channel>
   <channel id="채널S.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_Channel S_logo.jpg" />
@@ -2174,11 +1991,54 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">채널S</display-name>
   </channel>
-  <channel id="EBS플러스1.kr">
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_113.gif" />
-    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_113.gif" />
+  <channel id="MBC.ON.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201902/MBC_ON_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201902/MBC_ON_logo.jpg" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">EBS플러스1</display-name>
+    <display-name lang="ko">MBC ON</display-name>
+  </channel>
+  <channel id="매일경제TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202506/유로무비.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202506/유로무비.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">매일경제TV</display-name>
+  </channel>
+  <channel id="SPOTV.Prime(유료).kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime+_205x85.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202403/SPOTV Prime+_205x85.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SPOTV Prime(유료)</display-name>
+  </channel>
+  <channel id="SK.stoa.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201801/logo_SKstoa.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201801/logo_SKstoa.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SK stoa</display-name>
+  </channel>
+  <channel id="Satio.스무드재즈앳더팜비치.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 스무드재즈앳더팜비치</display-name>
+  </channel>
+  <channel id="KISS.레전드.가요.스페셜.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 레전드 가요 스페셜</display-name>
+  </channel>
+  <channel id="sky지역방송.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">sky지역방송</display-name>
+  </channel>
+  <channel id="Satio.Music.Portal.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201807/channel_logo_at.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio Music Portal</display-name>
+  </channel>
+  <channel id="MBC.SPORTS+.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202504/MBC_스포츠플러스_white.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202504/MBC_스포츠플러스_white.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MBC SPORTS+</display-name>
   </channel>
   <channel id="Ch.NOW.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/202012/210101_NOW_logo.jpg" />
@@ -2186,23 +2046,82 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">Ch.NOW</display-name>
   </channel>
-  <channel id="skyUHD.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201607/logo_skyuhd.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201607/logo_skyuhd.png" />
+  <channel id="JTBC.kr">
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">skyUHD</display-name>
+    <display-name lang="ko">JTBC</display-name>
   </channel>
-  <channel id="SBS.M.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_sbs.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_sbs.png" />
+  <channel id="GS.MY.SHOP.kr">
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/24bbc560e12422646a91986a3ad94c7dce0663c3220c7d6035d46f1527560ac1_1.png" />
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/24bbc560e12422646a91986a3ad94c7dce0663c3220c7d6035d46f1527560ac1_1.png" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">SBS M</display-name>
+    <display-name lang="ko">GS MY SHOP</display-name>
   </channel>
-  <channel id="바둑TV.kr">
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220427_go_logo.png" />
-    <icon src="https://static.skylife.co.kr/upload/channel/202204/220427_go_logo.png" />
+  <channel id="KBS.Story.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202104/210401_KBS STORY_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202104/210401_KBS STORY_logo.jpg" />
     <url>http://www.skylife.co.kr</url>
-    <display-name lang="ko">바둑TV</display-name>
+    <display-name lang="ko">KBS Story</display-name>
+  </channel>
+  <channel id="MGTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_MGTV_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202204/220429_MGTV_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MGTV</display-name>
+  </channel>
+  <channel id="TLC여행레저채널.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_TLC_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202205/220518_TLC_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">TLC여행레저채널</display-name>
+  </channel>
+  <channel id="MBN.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MBN</display-name>
+  </channel>
+  <channel id="Mplex.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_167.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_167.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Mplex</display-name>
+  </channel>
+  <channel id="대교어린이TV.kr">
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">대교어린이TV</display-name>
+  </channel>
+  <channel id="MBC드라마.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_mbcdrama.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_mbcdrama.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">MBC드라마</display-name>
+  </channel>
+  <channel id="키즈톡톡플러스(유료).kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201402/1392196793103.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201402/1392196793103.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">키즈톡톡플러스(유료)</display-name>
+  </channel>
+  <channel id="실버아이TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_silveritv.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201603/logo_silveritv.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">실버아이TV</display-name>
+  </channel>
+  <channel id="다문화TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201912/tvm_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201912/tvm_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">다문화TV</display-name>
+  </channel>
+  <channel id="Satio.최신유행.클럽음악.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201504/channel_logo_at_1.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Satio 최신유행 클럽음악</display-name>
+  </channel>
+  <channel id="Arirang.World.kr">
+    <icon src="data:image/png;base64,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" />
+    <icon src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAAAjCAYAAABVXaLxAAAIWElEQVR4nO2be7BXVRXHP9x7wXiIYqL4QExFblqhomgpIr4KzbTygdUQvl+hTklWjjg6NmVlL7WZaiqcSi0LS8onKDlcEXygKCrq+Eh8XxC5gGkqzna+R9cs13kx41x/l9/3n3v3+u2zz9r7fPd67XN6LR1yIA2Og4HzgY8Bs4GvAv9r9El1F1oaXP+xwL+AUcBGwJeAYz8EejUsGpkQvYErAvmG3aBLj0EjE2IgsHkg/1M36NJj0MiEWA7MMu3XgKOA/3ajTg2PtgaewJvA/sAZQCtwNfD0h0CvhkYdQmyq4G0XYBtgELAGeBFYBHQA93TDYvyiG+7ZY1GFEJ/RLvwC8JGSvrcDU/T3g0KrrMMHjT7A6yX3aFG/RklzW7Wxe8vlvuI7FNUhBmj3rU0a92VgeoV+OwCHAiOBjyZ9CvoOBh4HvqKJXeP6zwR+mHPtMKWkycJtUhI7pSxlNXA08Iz7rR9wGLAf8ElgM2A9YCXwBDAH+CPwWMm8twJ+X9LHowu4X+M/WuO6VJ85XDqPFCF6abxFcrU/k7XPJcS+wOXAlkb2mJSZByyRbHtgkqyHx/YFiqeF/RXw9ZqLcojqDil4vMr99j3gB8E1abKTRaKqOBH4rek7SONPFKHK8CPg7II+pwKX1Zy7xZF6kEXYCfi2iF2Gh4Evpr8RIQ7T7rM4W5PMw3QNaDEjhyhpdz4IjHDyB4DFwBvBNcl0f9fs2PSQz3R90oN6yclmamdYJGIvBP4f3Cftkp8CdxrZoSLHYCN7CpgPdEp+oNJgi18DJ1dcr5Qh/SPol0j8KW0uj00Vv0VIRLjIyJNl/afWHVlKr1saawtPiAOAm9ziTQDuzrlxhmSSn3Sy1dpZ3g//XeY7QyLA14C/lNzDIk3s46Z9F7Cb63MBcK6TpVjolzXuk6zC9017rsj4t8zEChtLNtZdn8h4i5O1iUgbGNm/gc8X6HGVrKJFnlueZixvlzZSZI1Gy8X1NrKp1pcOdWR4SD6njAxox3Q6WXIL2znZdo4MCT+vSYZhjgw4vRPWD8jw55pkuNCR4VwF2Fc7MqC5H6ydbvGNYNw9HBkS7ijRZWYgWx3IphsyJKvwiQLXND9wuxMsIazJWgGMyblpHlYE8vVde3zQxytVhs8Gv9/p2gcFfWbUuEcKXM8x7YkiSBFWBQ/Wb4iE3QNZ9MAt9nHt14JMbqpxQ8tlMcuKdPe59sYZIU5TfSFDiiOWlgxm0c/52Awvu/bnXPulihbIYk/Xfgu4zcm86abCLswwTNYkw0QF01Xgfbq3BAnjXLuzgm4HuPZstwHbdeKbISUFyyro6+Oe1owQFxhhMiW3VhjMYkhgDbpcXJF81d6uT0fN+yCzbTE/mPxo114st1YFNh28pgYZUOps0eXavYPdXmYddgkyG+8irY7J0i+oqO8Orr2yRcHKRkY4tWCAHYHhgXznQPagCyj3VG3DYl5FxTMMD8zwda6dVVSL+uRhjHZXhhNq6NZLGYGFD7QTGfo7mbduHpH7m23+T65hV9M+J+ifB2+tnmrRCyUZlgfsyzBApekFgSn0Jo1gopHvzLtXHrzLIbBmkS5luzDDKeb/GQVuc4KIZzFK2YbFQtfel/djbolO/pqVbtzTzP8Pm9SyDOMCi9bR4nb30iCCRlW5BSrT9hcxsqJVS86Dut61PRtfWIuzj/1d+/XAPEZB5/wKY6cdvpdp+1pMhuOBK7VL7W6PKnw3u7Z3Zc8D9xbo1BpYu1tNraZN2U2GRQVjeURnQNe3OJYM1cPP0Bf4jhhpTfU2SkvbtSjD3MArnIXoGxDihhrKZ/i0a3courfYy7XvC1LiCGnuQ438raDPRaaC2a6AeIja3gJ2uTXoFwTEN5botHsQ+NlrhjurtHXJeBkuds8ZJQBz2nQw01fCPjJh0zSB8WbCHgOkzBbBbx3uAGqcxraoewC2Y5DJ+B24ZbAoVd1Smq9Fqjs8InLvoaKWX8QRekA7qWZjMcutwT469yjS3yOydnY+/u2wUcqw/lMw5nnANwN5KlKtadPut2laf+eX8jBFg1wZ/O7TqMh3zqlwD4souPLBYlTn8K4rDykLWWXcwLYVSTtVRPRW0sc2kf5la+Bd8RJ3PuSDVkSYCYHL209kGJNzr3eeWYtq93WRSro/0TU+jSIo1+7q2ktqBD8ZfPywLCis+HOLV2uktqmv17sMJ+mMYFLQzxfLvLt4uiQVHhiU431W9pzK9hZ9VLFM8cRfVVJ/SIF1HhnI5p4Ica0uqoJnVLTKThVHBi7lZbezBga+v2780DeYjLdCrQFp7qnwToPFlIr9nlMw9xu1/U5e5h7ehiojW5StwejgdYAo5jglkKEawxE682g38kuDM5DOTN+sMJUu/F2BcqtkEUZoR2SYHPSd5wKyY4L4YRb1MN7EORm8nxwbpVE177NY4+SdIr6pBW037mqToFg2163BpOBlpLLY5tRAFpHoLlc6yMPzehaTg3jnpiy7tEoer2DyEAVmrSY1vDY4WkZm6Q9O5t967gz6VK0LZFgdjOEPxN6Q/jZtnlbzPigzSNH7cQoWB2jHL1QV0L+3uYHmbI/TL3d9/BqsqRBQ3q26UIYXCt4ZvUL9T5B73krW5VkFxrfpzOhVVYu3dde/a9F7wpdbTdRDqj+c7q5492WmRv9yq4n6ONxdMc9mLk1CrFs4M/i46Vu20STEuoOU6fzYzfYWH3g3CbFuYJDSdJtELI3eeW0SoufjIL2+b19qXqHakD8HauhP+Zp4PzYzNYnBqqn4Q7c5eu/y8WiAJiF6FtKh1Vk5M1qiTykuKZpxkxA9CymDSO4gFb5SESpVXNP3Lqmqms41om9R3gPwNvsPvPx4RxwzAAAAAElFTkSuQmCC" />
+    <url>http://www.arirang.com</url>
+    <display-name lang="ko">Arirang World</display-name>
   </channel>
   <channel id="Discovery.Science.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/202310/231004_SCI_LOGO.png" />
@@ -2210,11 +2129,92 @@
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">Discovery Science</display-name>
   </channel>
+  <channel id="SBS.M.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_sbs.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201511/logo_sbs.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SBS M</display-name>
+  </channel>
   <channel id="UXN.kr">
     <icon src="https://static.skylife.co.kr/upload/channel/201608/logo_uxn_1.png" />
     <icon src="https://static.skylife.co.kr/upload/channel/201608/logo_uxn_1.png" />
     <url>http://www.skylife.co.kr</url>
     <display-name lang="ko">UXN</display-name>
+  </channel>
+  <channel id="생활체육TV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201912/routinesports_logo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201912/routinesports_logo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">생활체육TV</display-name>
+  </channel>
+  <channel id="Asia.N.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201705/AsiaN.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201705/AsiaN.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">Asia N</display-name>
+  </channel>
+  <channel id="채널.칭(CHING).kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202010/201015_채널칭_Logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202010/201015_채널칭_Logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">채널 칭(CHING)</display-name>
+  </channel>
+  <channel id="KISS.한국인이.사랑한.팝송.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_au.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">KISS 한국인이 사랑한 팝송</display-name>
+  </channel>
+  <channel id="skyGuide.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/201704/001_skyGuide.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/201704/001_skyGuide.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">skyGuide</display-name>
+  </channel>
+  <channel id="Arirang.Radio.kr">
+    <icon src="data:image/png;base64,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" />
+    <icon src="data:image/png;base64,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" />
+    <url>http://www.arirang.com</url>
+    <display-name lang="ko">Arirang Radio</display-name>
+  </channel>
+  <channel id="ARANG.ARANG.(Arirang.TV,.Korea.World.Network).kr">
+    <url>http://www.streamingtvguides.com</url>
+    <display-name lang="en">ARANG ARANG (Arirang TV, Korea World Network)</display-name>
+  </channel>
+  <channel id="HQ+.kr">
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/a688d83ae8586526909c1329cf917f82c743b5132aad3f492fe7022d3cf4f702.png" />
+    <icon src="https://static.skylife.co.kr/web/live/channels/logo/a688d83ae8586526909c1329cf917f82c743b5132aad3f492fe7022d3cf4f702.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">HQ+</display-name>
+  </channel>
+  <channel id="LOTTE.OneTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202105/210510_CJonstyleplus_logo.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202105/210510_CJonstyleplus_logo.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">LOTTE OneTV</display-name>
+  </channel>
+  <channel id="CNTV.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202401/CNTV_2024.jpg" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202401/CNTV_2024.jpg" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">CNTV</display-name>
+  </channel>
+  <channel id="tvN.SPORTS.kr">
+    <icon src="https://static.skylife.co.kr/upload/channel/202210/221020_tvnsports_rogo.png" />
+    <icon src="https://static.skylife.co.kr/upload/channel/202210/221020_tvnsports_rogo.png" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">tvN SPORTS</display-name>
+  </channel>
+  <channel id="애니맥스.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_725.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_725.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">애니맥스</display-name>
+  </channel>
+  <channel id="SBS.Golf.kr">
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_44.gif" />
+    <icon src="https://static.skylife.co.kr/upload/channelimage/201308/channel_logo_44.gif" />
+    <url>http://www.skylife.co.kr</url>
+    <display-name lang="ko">SBS Golf</display-name>
   </channel>
   <programme channel="캐치온1(유료).kr" start="20260922004000 +0900" stop="20260922023000 +0900">
     <title lang="ko">악마와의 토크쇼</title>
